@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wnahamon
 - 👀 I am interested in creating neural networks, games and applications
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, java, java script, kotlin
 - 💞️ I’m looking to collaborate on google, amazone, tesla, spacex, facebook, yandex ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
