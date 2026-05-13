@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning python, java, java script, kotlin
 - 💞️ I’m looking to collaborate on google, amazone, tesla, spacex, facebook, yandex ...
 - 📫 How to reach me 
-- 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he-he-he
+- ⚡ Fun fact: he-he-he-he-he-he
